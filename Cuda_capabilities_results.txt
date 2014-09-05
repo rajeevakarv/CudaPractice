@@ -1,0 +1,58 @@
+Result
+
+
+Results 
+
+CUDA Device Capabilities:
+
+CUDA Devices Found: 2
+CUDA Driver: 5050
+CUDA Runtime: 5000
+
+Device 0: GeForce GTX 480 (Discrete)
+CUDA Capability 2.0
+Processing:
+        Multiprocessors : 15
+        Max Grid Size: 65535 x 65535 x 65535
+        Max Block Size: 1024 x 1024 x 64
+        Threads per block : 1024
+        Threads per Multiprocessor : 1536
+        Warp Size: 32
+        Clock Rate: 1.401000GHz
+Memory:
+        Global: 1536 MB
+        Constant: 64 KB
+        Shared/blk: 48 KB
+        Registers/blk: 32768
+        Maximun Pitch: 2047 MB
+        Texture Alignment: 512 B
+        L2 Cache Size: 786432 B
+        Clock Rate: 1848MHz
+Concurrent copy & Execute: Yes
+Kernel Time Limit: Yes
+Supports Page-Locked Memory Mapping: Yes
+Compute Mode: Default
+
+Device 1: GeForce 8400GS (Discrete)
+CUDA Capability 1.2
+Processing:
+        Multiprocessors : 2
+        Max Grid Size: 65535 x 65535 x 1
+        Max Block Size: 512 x 512 x 64
+        Threads per block : 512
+        Threads per Multiprocessor : 1024
+        Warp Size: 32
+        Clock Rate: 1.238000GHz
+Memory:
+        Global: 1024 MB
+        Constant: 64 KB
+        Shared/blk: 16 KB
+        Registers/blk: 16384
+        Maximun Pitch: 2047 MB
+        Texture Alignment: 256 B
+        L2 Cache Size: 0 B
+        Clock Rate: 600MHz
+Concurrent copy & Execute: Yes
+Kernel Time Limit: Yes
+Supports Page-Locked Memory Mapping: Yes
+Compute Mode: Default
